@@ -1,2 +1,0 @@
-Получена призовая игрушка: Toys{toysId= 5, toysName= 'Трактор', quantity= 5, weight= 0.7}
-
